@@ -1,13 +1,15 @@
 <h1 align="center">Hi!, I'm Andrés Ardila <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-<h3 align="center">Student at UNAL, Bogotá 🌟</h3>
+<h3 align="center">Student at UNAL, Bogotá</h3>
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Junior+Developer;JavaScript%20|%20Angular%20|%20React%20|%20Python%20Enthusiast;Always%20learning%20new%20things&center=true&width=700&height=80&size=25"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Junior+Developer;JavaScript%20|%20Angular%20|%20React%20|%20Python%20Enthusiast;Always%20learning%20new%20things&center=true&width=750&height=80&size=25"></a>
 </p>
 
 <h2> About Me ✒️</h2>
 
-<img width="55%" align="right" alt="Github" src="https://media.baamboozle.com/uploads/images/291092/1648816661_1088861_gif-url.gif" />
+<img width="25%" align="right" alt="Github" src="https://media.baamboozle.com/uploads/images/291092/1648816661_1088861_gif-url.gif" />
+
+
 
 - 🖥️ I’m currently learning Web Development and other programming languages
   
@@ -112,5 +114,4 @@
 <a href=""><img src="https://img.shields.io/badge/-andresardila.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/andres-camilo-ardila-diaz-13a1162a5/"><img src="https://img.shields.io/badge/-Camilo%20Ardila%20Diaz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anardilad@unal.edu.co"><img src="https://img.shields.io/badge/-anardilad@unal.edu.co-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/__.ardila._/"><img src="https://img.shields.io/badge/-@__.ardila._-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
