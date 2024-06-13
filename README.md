@@ -23,7 +23,7 @@
  ⚡ Fun fact: I like formula 1 and professional cycling
 </p>
 <p align="center">
-<img width="25%" align="center" alt="Github" src="https://media.baamboozle.com/uploads/images/291092/1648816661_1088861_gif-url.gif" />
+<img width="35%" align="center" alt="Github" src="https://media.baamboozle.com/uploads/images/291092/1648816661_1088861_gif-url.gif" />
 </p>
 <br>
 
