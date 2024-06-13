@@ -107,8 +107,6 @@
 </a>
 </div>
 
-<br>
-
 <h2> Connect with me 🤝🏻</h2>
 <br>
 <p align="center">
