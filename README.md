@@ -5,22 +5,26 @@
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Junior+Developer;JavaScript%20|%20Angular%20|%20React%20|%20Python%20Enthusiast;Always%20learning%20new%20things&center=true&width=750&height=80&size=25"></a>
 </p>
 
-<h2> About Me ✒️</h2>
+<h2 align="center"> About Me ✒️</h2>
 
-<img width="25%" align="right" alt="Github" src="https://media.baamboozle.com/uploads/images/291092/1648816661_1088861_gif-url.gif" />
-
-
-
-- 🖥️ I’m currently learning Web Development and other programming languages
-  
-- 📊 I’m very interested in data analysis and AI
-  
-- 🎯 I’m looking to collaborate on challenging projects
-  
-- 💬 Ask me about Sql, JavaScript, Python, PHP
-  
-- ⚡ Fun fact: I like formula 1 and professional cycling
-
+<p align="center">
+ 🖥️ I’m currently learning Web Development and other programming languages
+</p>
+<p align="center">
+ 📊 I’m very interested in data analysis and AI
+</p>
+<p align="center">
+ 🎯 I’m looking to collaborate on challenging projects
+</p>
+<p align="center">
+ 💬 Ask me about Sql, JavaScript, Python, PHP
+</p>
+<p align="center">
+ ⚡ Fun fact: I like formula 1 and professional cycling
+</p>
+<p align="center">
+<img width="25%" align="center" alt="Github" src="https://media.baamboozle.com/uploads/images/291092/1648816661_1088861_gif-url.gif" />
+</p>
 <br>
 
 <h2> Skills 📋</h2>
